@@ -15,12 +15,6 @@ The React Fun Facts Card project displays a lost of fun facts about React in a v
 
 ![](Screenshot.png)
 
-
-### Links
-
-- [Solution URL](https://github.com/oduwole-ayomipo/first-react-app/edit/main)
-- [Live Site URL](https://ayooo-first-react.netlify.app/)
-
 ## My process
 
 ### Built with
