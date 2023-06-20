@@ -4,7 +4,7 @@ Welcome to the React Fun Facts Card project! This project showcases some interes
 
 ## Overview
 
-The React Fun Facts Card project displays a liost of fun facts about React in a visually appealing card layout. The card presents a unique fact about React, allowing users to explore and learn more about this popular JavaScript library.
+The React Fun Facts Card project displays a lost of fun facts about React in a visually appealing card layout. The card presents a unique fact about React, allowing users to explore and learn more about this popular JavaScript library.
 
 ### The Features
 
