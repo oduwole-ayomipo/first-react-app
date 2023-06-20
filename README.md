@@ -34,8 +34,8 @@ The React Fun Facts Card project displays a liost of fun facts about React in a 
 ## Acknowledgments
 
 I would like to express my gratitude to:
-- Bob Ziroll and Scrimba for the excellent React course.
-- [Mention any other resources, libraries, or individuals you would like to acknowledge]
+- Bob Ziroll and
+- [Scrimba](https://scrimba.com/learn/learnreact) for the excellent React course.
  
 
 ## Author
