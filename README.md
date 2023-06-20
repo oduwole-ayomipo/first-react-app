@@ -13,7 +13,7 @@ The React Fun Facts Card project displays a lost of fun facts about React in a v
 
 ### Screenshot
 
-![](https://github.com/oduwole-ayomipo/first-react-app/edit/main/Screenshot.png)
+![](Screenshot.png)
 
 
 ### Links
